@@ -8,8 +8,9 @@ Sekian, Terima kasih
 
 
 
-cara pemasangan:
+<details open><summary><code>Cara Pemasangan</code></summary>
 
+```php
 pkg update && pkg upgrade
 pkg install git
 pkg install python
@@ -27,3 +28,5 @@ If you want to run it again, just enter this command:
 
 cd Phira-Chart
 python phira.py
+```
+</details>
