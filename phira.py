@@ -250,7 +250,7 @@ def search_chart_by_id():
         print(f"    {Style.BRIGHT}Type {Fore.RED}Back {Fore.WHITE}to menu")
         print(f"{Style.BRIGHT}{Fore.WHITE}──────────────────────────────────")
         print()
-        chart_id = input(f"{Style.BRIGHT}Masukkan ID chart: ").strip().lower()
+        chart_id = input(f"{Style.BRIGHT}Enter chart ID: ").strip().lower()
         if chart_id == "back":
             os.system("cls" if os.name == "nt" else "clear")
             print_logo()
@@ -281,7 +281,7 @@ def search_chart_by_name():
         print(f"{Style.BRIGHT}{Fore.WHITE}──────────────────────────────────")
         print()
         
-        chart_name = input(f"{Style.BRIGHT}Masukkan nama chart: ").strip().lower()
+        chart_name = input(f"{Style.BRIGHT}Type the chart name: ").strip().lower()
         url = f"https://api.phira.cn/chart?search={chart_name}"
         if chart_name == "back":
             os.system("cls" if os.name == "nt" else "clear")
