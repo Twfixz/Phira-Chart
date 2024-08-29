@@ -7,7 +7,7 @@ Thank you
 
 ## Command
 
-<details open><summary><code>Cara Pemasangan</code></summary>
+<details open><summary><code>How to Install?</code></summary>
 
 ```php
 pkg update && pkg upgrade
