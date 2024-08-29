@@ -5,7 +5,7 @@ actually I'm not good at python, so almost all the code is done by AI, so I just
 Thank you
 
 
-##Command
+## Command
 
 <details open><summary><code>Cara Pemasangan</code></summary>
 
@@ -24,7 +24,7 @@ python phira.py
 ```
 </details>
 
-##Restart
+## Restart
 enter this command:
 ```php
 cd Phira-Chart
