@@ -1,12 +1,11 @@
-# Phira-Chart
+# Disclaimer 
 
-alasan saya membuat script ini, agar kalian mempermudah untuk mengunduh chart dari phira, beberapa waktu terakhir ini server phira sedang mengalami beberapa masalah sehingga sangat lambat untuk mengunduh chart, maka dari itu saya mendapatkan ide untuk membuat script tsb,
-
-sebenarnya saya tidak pandai dalam bahasa python, jadi hampir semua kode di kerjakan oleh AI, jadi saya hanya menggunakan ide saya dan menerapkan nya melalui AI,
-
-Sekian, Terima kasih
+The reason I created this script is to make it easier for you to download charts from Phira. Recently, the Phira server has been experiencing several problems, making it very slow to download chart, that's why i got the idea to make a ts script
+actually I'm not good at python, so almost all the code is done by AI, so I just use my ideas and implement them through AI,
+Thank you
 
 
+##Command
 
 <details open><summary><code>Cara Pemasangan</code></summary>
 
@@ -22,11 +21,12 @@ git clone https://github.com/Twfixz/Phira-Chart
 cd Phira-Chart
 pip install -r requirement.txt
 python phira.py
+```
+</details>
 
-
-If you want to run it again, just enter this command:
-
+##Restart
+enter this command:
+```php
 cd Phira-Chart
 python phira.py
 ```
-</details>
