@@ -1,1 +1,4 @@
-requests rich pyfiglet colorama
+requests
+rich
+pyfiglet
+colorama
